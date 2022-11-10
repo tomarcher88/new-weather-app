@@ -4,7 +4,7 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: {
-        "green-field": "url('/src/assets/claudio-testa--SO3JtE3gZo-unsplash.webp')",
+        "green-field": "url('/src/assets/claudio-web.webp')",
       },
       fontFamily: {
         "josefin": ['Josefin Sans', 'sans-serif']

@@ -15,7 +15,7 @@ export default function App() {
           <HeadlineInfo />  
           <Forecast />     
         </main>
-        {/* <footer>
+        <footer className="bg-zinc-100/50 text-right text-zinc-900 px-2">
         Photo by{" "}
         <a href="https://unsplash.com/@claudiotesta?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">
         Claudio Testa
@@ -24,7 +24,7 @@ export default function App() {
         <a href="https://unsplash.com/s/photos/landscape?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">
         Unsplash
         </a>
-      </footer> */}
+      </footer>
       </div>
     </ContextProvider>
   );

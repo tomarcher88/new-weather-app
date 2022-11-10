@@ -11,3 +11,4 @@ This version is more aesthetic, accessible and functional.
 - [Axios](https://axios-http.com/docs/intro)
 - [React Select](https://react-select.com/home)
 - [TailwindCSS](https://tailwindcss.com/)
+- [Weather Icons](https://erikflowers.github.io/weather-icons/)
